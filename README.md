@@ -111,7 +111,7 @@ npm --version
 This spins up PostgreSQL, Redis, the FastAPI backend, and the React dev server together.
 
 ```bash
-git clone https://github.com/<your-org>/governx.git
+git clone https://github.com/Mankk04/governx.git
 cd governx
 
 # Copy and edit backend environment variables
